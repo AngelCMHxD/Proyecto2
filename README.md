@@ -2,6 +2,8 @@ En `docs/` esta el .pdf con toda la info y las imagenes de los diagramas.
 
 Usa Java 17
 
+Proyecto 1: https://github.com/AngelCMHxD/Proyecto1_Entrega2_DPOO
+
 | clase | acceso |
 |---|---|
 | `edu.seneca.consola.ConsolaAdministrador` | administrador |
